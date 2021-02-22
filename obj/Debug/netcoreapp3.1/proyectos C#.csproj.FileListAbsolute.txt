@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\bin\Debug\netcoreapp3.1\proyectos C#.exe
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\bin\Debug\netcoreapp3.1\proyectos C#.deps.json
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\bin\Debug\netcoreapp3.1\proyectos C#.runtimeconfig.json
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\bin\Debug\netcoreapp3.1\proyectos C#.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\bin\Debug\netcoreapp3.1\proyectos C#.dll
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\bin\Debug\netcoreapp3.1\proyectos C#.pdb
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.dll
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.pdb
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\proyectos C#\obj\Debug\netcoreapp3.1\proyectos C#.genruntimeconfig.cache
